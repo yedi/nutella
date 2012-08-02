@@ -1,0 +1,4 @@
+*.o
+extra/*
+nclient
+nserver
