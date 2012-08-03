@@ -5,10 +5,12 @@ Preliminary
 ------------
 Your .nutella file should have the locations of all your movie files.
 The first line should have the number of movies in your collection. 
-Every line after that should be formatted as such
+Every line after that should be formatted as such:
+
     <name of moviie>    <file location>
 
-e.g.
+e.g:
+
     2
     matrix      movies/matrix.txt
     starwars    movies/starwars.txt
@@ -16,13 +18,16 @@ e.g.
 
 Usage
 ------------
-To compile
-    ~$ 'make clean'
-    ~$ 'make'
+To compile:
 
-To run the client
-    ~$ './nclient'
+    ~$ make clean
+    ~$ make
 
-To run the server
-    ~$ './nserver'
+To run the client:
+
+    ~$ ./nclient
+
+To run the server:
+
+    ~$ ./nserver
 
