@@ -1,7 +1,8 @@
-Nutella -- A simple gnutella-like p2p file sharing and streaming application
-=============
+# Nutella
 
-Preliminary
+#### A simple gnutella-like p2p file sharing and streaming application
+
+Setup
 ------------
 Your .nutella file should have the locations of all your movie files.
 The first line should have the number of movies in your collection. 
